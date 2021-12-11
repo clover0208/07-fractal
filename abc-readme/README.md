@@ -1,6 +1,8 @@
 # Nice to SEE You
 [link to the project](https://nice-to-see-youu.glitch.me/)
+
 Background:
+
 What does distance mean? Digital technologies make us so close yet so far away from each other.  We construct our digital identities in different social medias to expand our social networks. Sending chat messages, sharing moments and clicking the “like” button become the only way we convey our thoughts and emotions. 
 
 We no longer interact with people around us. We ignore the poetic moments in our real life. We forget the feeling to hear, to see, and to connect. We are isolated from each other as we attempt to connect digitally. Every day we see nothing but stare at our screens. Are we becoming more intimate with each other or more alienated?
@@ -41,6 +43,12 @@ The compromises me made is since we 100% sure the express part will work well, w
 With great thanks to Sophie, who is an excellent teammate, we cooperate well. With great thanks to Professor Leon, who guided us to this idea and helped us through our building process. With great thanks to Thomas, who helped me with room. 
 
 # Code Citation
+Atinux. “Atinux/Liveballs: A Mutliclient Chat with Balls for Each Client, You Can Move with Your Mouse and Chat with Other Persons in Realtime.” GitHub, github.com/Atinux/liveBalls. 
+
+# Code(with multiple versions on github and some are on glitch)
+[current site](https://glitch.com/edit/#!/nice-to-see-youu)
+[fixing express](https://glitch.com/edit/#!/project-c-oldversion)
+[room-version-trying](https://glitch.com/edit/#!/room-version)
 
 
 
