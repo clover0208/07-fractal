@@ -36,11 +36,11 @@ I also learned with rooms, where I push the id and put two of the user into a gr
 
 # Compromises and Shortcomings
 
-The compromises me made is since we 100% sure the express part will work well, we didn't present. Also, when we showed on another big screen mac, the background image not showing. I also still learning why this happen and how to fix it. Also, like professor Leon mentioned, the sound can be emit from different players (make their own sound) instead of emit from the tree. I will further work on the express part and the sound part cause I really like this project. Also I will keep drawing the map, to make it coherent with the animation.
+The compromises me made is since we are not 100% sure the express part will work well, we didn't present. Also, when we showed on another big screen mac, the background image not showing. I also still learning why this happen and how to fix it. Also, like professor Leon mentioned, the sound can be emit from different players (make their own sound) instead of emit from the tree. I will further work on the express part and the sound part cause I really like this project. Also I will keep drawing the map, to make it coherent with the animation.
 
 # Last but not least...
 
-With great thanks to Sophie, who is an excellent teammate, we cooperate well. With great thanks to Professor Leon, who guided us to this idea and helped us through our building process. With great thanks to Thomas, who helped me with room. 
+With great thanks to Sophie, who is an excellent teammate. With great thanks to Professor Leon, who guided us to this idea and helped us through our building process. With great thanks to Thomas, who helped me with room. 
 
 # Code Citation
 Atinux. “Atinux/Liveballs: A Mutliclient Chat with Balls for Each Client, You Can Move with Your Mouse and Chat with Other Persons in Realtime.” GitHub, github.com/Atinux/liveBalls. 
